@@ -10,4 +10,4 @@ Costul deplasarii de la un patrat al grilei la altul este dat de diferenta de ni
 poate depasi o diferenta de nivel mai mare de 2 unitati. De asemenea nu poate
 trece prin locuri mai adânci de −2. Deplasarea se face sus-jos-stânga-dreapta
 (nu pe diagonal ). Reprezentaµi pe harta un traseu optim pentru drumet.
-Folosiµi algoritmul A∗
+Folositi algoritmul A∗
